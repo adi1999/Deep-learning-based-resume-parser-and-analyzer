@@ -33,9 +33,9 @@ python dl_based_parser_predict.py
 ```
 
 # Instructions
-You can train it on your own data.
-At present it only works on .pdf and .docx format.
-Motivation : chen0040
+* You can train it on your own data.
+* At present it only works on .pdf and .docx format.
+* Motivation : chen0040
 
 # Requirements
 * Python 3.4+
